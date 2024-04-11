@@ -1,0 +1,5 @@
+{
+    "name":"@taisan11/nodelessbuildplugin",
+    "version":"0.1.1",
+    "exports":"./nodelessBuildPlugin.ts"
+}
